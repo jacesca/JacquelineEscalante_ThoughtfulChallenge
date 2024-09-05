@@ -1,6 +1,6 @@
 # RPA - Collect News
 
-This RPA automates the process of extracting news from a website and exporting it to an Excel file.
+This RPA automates the process of extracting news from the website "https://www.aljazeera.com/" and exporting it to an Excel file.
 
 ## Parameters:
 
