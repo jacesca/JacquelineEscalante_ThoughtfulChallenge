@@ -1,7 +1,9 @@
 # RPA - Collect News
+
 This RPA automates the process of extracting news from a website and exporting it to an Excel file.
 
 ## Parameters:
+
 The process must process 2 parameters:
   - search phrase
   - number of months for which you need to receive news.
@@ -13,6 +15,7 @@ The process must process 2 parameters:
 
 
 ## Process
+
 1. Get process parameters:
     * search phrase
     * number of months for which you need to receive news.
@@ -32,6 +35,7 @@ The process must process 2 parameters:
 4. Download news picture.
 
 ## Main features in this challenge
+
 1. PEP8 compliant
 2. OOP
 3. Fault-tolerant architecture
